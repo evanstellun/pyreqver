@@ -1,0 +1,5 @@
+include README.md
+include requirements.txt
+include example_requirements.txt
+include LICENSE
+recursive-include pyreqver *.py
