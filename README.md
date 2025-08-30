@@ -1,5 +1,5 @@
 # PyReqVer - Python Requirements Version Checker
-**Caution! This project cannot be used concurrently with the PyReqVer project due to overlapping functionality and conflicting commands. Any interesting issues that arise from their simultaneous use are not within the scope of resolution by the maintainers. **
+**Caution! This project cannot be used concurrently with the PyReqVer_CN project due to overlapping functionality and conflicting commands. Any interesting issues that arise from their simultaneous use are not within the scope of resolution by the maintainers. **
 PyReqVer is a command-line tool that helps you find Python versions that support all libraries in your requirements.txt file. It analyzes each package's compatibility information from PyPI and determines the intersection of Python versions that support all your dependencies.
 
 ## Features
