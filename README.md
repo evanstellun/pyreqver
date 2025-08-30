@@ -22,7 +22,7 @@ PyReqVer is a command-line tool that helps you find Python versions that support
    pip install -r requirements.txt
    ```
 
-### Using pip (if published)
+### Using pip
 
 ```bash
 pip install pyreqver
